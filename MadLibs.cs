@@ -7,7 +7,7 @@ namespace MadLibs
     static void Main(string[] args)
     {
       /*
-      This program ...MadLibs
+      This program is a MadLib designed for unique inputs
       Author: ...Jason
       */
 
