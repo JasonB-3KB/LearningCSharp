@@ -8,7 +8,7 @@ namespace MadLibs
     {
       /*
       This program is a MadLib designed for unique inputs
-      Author: ...Jason
+      Author: ...Jason Not sure why this isn't working
       */
 
 
